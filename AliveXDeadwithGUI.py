@@ -8,7 +8,7 @@ import threading
 class DomainChecker:
     def __init__(self, root):
         self.root = root
-        self.root.title("Domain Checker")
+        self.root.title("AliveXDead")
         self.root.geometry("600x400")
         
         # Domain input
